@@ -331,12 +331,10 @@ display: flex;
  flex-direction: row;
 }
 
-.team-soc-link:hover {
-background-color: #404bbf;
-} 
+.team-soc-link:hover, 
 .team-soc-link:focus {
 background-color: #404bbf;
-}
+} 
 
 .soc-icon {
     fill: #f4f4fd;
@@ -515,9 +513,8 @@ justify-content: center;
 align-items: center;
 }
 
-.div-social-link:hover {
-    background-color: #31d0aa;
-} 
+.div-social-link:hover, 
 .div-social-link:focus {
     background-color: #31d0aa;
-}
+} 
+
